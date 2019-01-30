@@ -1,6 +1,6 @@
 {% set name = "xpdview" %}
-{% set version = "0.3.2" %}
-{% set sha256 = "0d926554b52aacc78fb6edbe59d730ad987c0bd560c698c4befe8c6c17705722" %}
+{% set version = "0.4.0" %}
+{% set sha256 = "1a15968bfad1350ca334a6af08cb823411d719b2ebcf447e525eb0bd7af5861a" %}
 
 package:
   name: {{ name|lower }}
