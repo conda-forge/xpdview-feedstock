@@ -19,7 +19,7 @@ Current build status
 ====================
 
 All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/xpdView-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/xpdView-feedstock)
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/xpdview-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/xpdview-feedstock)
 
 Current release info
 ====================
